@@ -55,11 +55,11 @@ const getPodcastEmailTemplate = (name, isAmharic = false) => {
               
               <div class="stats">
                 <div class="stat-item">
-                  <div class="stat-value">100+</div>
+                  <div class="stat-value">1,000+</div>
                   <div class="stat-label">ክፍሎች</div>
                 </div>
                 <div class="stat-item">
-                  <div class="stat-value">50K+</div>
+                  <div class="stat-value">600k+</div>
                   <div class="stat-label">አድማጮች</div>
                 </div>
                 <div class="stat-item">

@@ -112,19 +112,19 @@ const HeroSection = () => {
             {/* Stats */}
             <div className="flex gap-8">
               <div>
-                <div className="text-3xl font-bold text-purple-900 dark:text-purple-400">100+</div>
+                <div className="text-3xl font-bold text-purple-900 dark:text-purple-400">1.1K+</div>
                 <div className={theme === 'dark' ? 'text-gray-400' : 'text-gray-500'}>
                   {copy.statsEpisodes}
                 </div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-purple-900 dark:text-purple-400">50K+</div>
+                <div className="text-3xl font-bold text-purple-900 dark:text-purple-400">600K+</div>
                 <div className={theme === 'dark' ? 'text-gray-400' : 'text-gray-500'}>
                   {copy.statsListeners}
                 </div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-purple-900 dark:text-purple-400">4.9</div>
+                <div className="text-3xl font-bold text-purple-900 dark:text-purple-400">4.99</div>
                 <div className={theme === 'dark' ? 'text-gray-400' : 'text-gray-500'}>
                   {copy.statsRating}
                 </div>

@@ -314,7 +314,6 @@ const EntenfisRegistration = () => {
                       <option value="">{isAmharic ? 'ጾታ ይምረጡ' : 'Select gender'}</option>
                       <option value="male">{isAmharic ? 'ወንድ' : 'Male'}</option>
                       <option value="female">{isAmharic ? 'ሴት' : 'Female'}</option>
-                      <option value="other">{isAmharic ? 'ሌላ' : 'Other'}</option>
                     </select>
                   </div>
                 </div>

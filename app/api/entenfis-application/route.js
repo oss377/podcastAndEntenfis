@@ -55,7 +55,7 @@ const getEntenfisEmailTemplate = (name, isAmharic = false) => {
               
               <div class="stats">
                 <div class="stat-item">
-                  <div class="stat-value">50+</div>
+                  <div class="stat-value">100+</div>
                   <div class="stat-label">እንግዶች</div>
                 </div>
                 <div class="stat-item">
